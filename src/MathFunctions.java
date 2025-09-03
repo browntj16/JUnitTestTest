@@ -17,7 +17,7 @@ public class MathFunctions {
         }
         return false;
     }
-    public boolean isEven(double x){
+    public boolean isEven(int x){
         if(x%2==0){
             return true;
         }
